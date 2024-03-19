@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ .desafio1{
+    color: red;
+ }
+ 
+ #lista1{
+    list-style: none;
+    color: #00FFFF;
+    background: rgb(60, 60, 60);
+    display: inline-block;
+}
+
+#lista2{
+    list-style: none;
+    color: #00FFFF;
+    background: rgba(238, 130, 238);
+    display: inline-block;
+}
